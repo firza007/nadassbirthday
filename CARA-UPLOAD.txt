@@ -1,0 +1,22 @@
+PAKET WEBSITE ULANG TAHUN NADA ❤️
+
+Isi folder:
+- index.html
+- music.mp3
+- foto1.jpg
+- foto2.jpg
+- foto3.jpg
+- README.md
+
+PENTING:
+Upload SEMUA FILE di dalam folder ini ke hosting.
+Jangan hanya upload index.html, karena music.mp3 dan foto juga dibutuhkan.
+
+Jika GitHub:
+1. Buka repository.
+2. Add file > Upload files.
+3. Pilih semua file di folder ini.
+4. Commit changes.
+5. Aktifkan Settings > Pages.
+
+Jika upload MP3 masih ditolak GitHub, gunakan Cloudflare Pages Direct Upload dan upload folder ini.
